@@ -11,25 +11,42 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "用户手册",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "快速开始",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "快速开始"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "注册和登录",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "注册",
+              "登录",
+              "忘记/找回密码",
+              "实名认证"
+            ]
+          },
+          {
+            "group": "弹性GPU使用",
+            "pages": [
+              "弹性GPU购买",
+              "访问容器实例",
+              "使用私有镜像"
+            ]
+          },
+          {
+            "group": "模型服务&接入点使用",
+            "pages": [
+              "创建模型服务（模型服务商）",
+              "使用模型服务（平台用户）"
+            ]
+          },
+          {
+            "group": "其他功能",
+            "pages": [
+              "充值和计费"
             ]
           }
         ]
